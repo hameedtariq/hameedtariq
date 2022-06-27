@@ -1,4 +1,11 @@
-### Hi there 👋
+### # Hi there, I'm Hameed 👋
+
+### I'm a Developer and Student!
+- 🔭 I’m currently exploring MERN stack and looking for opportunities to work with and learn from other people.
+- 🌱 I’m currently expanding my knowledge of Data Structures and Algorithms.
+- 👯 I love sharing my knowledge and always looking for opportunities to give back to the community.
+- 🥅 2022 Goals: Master Data Structures and Algorithms and Work on exciting MERN stack projects.
+
 
 
 ## Contribution Graph
