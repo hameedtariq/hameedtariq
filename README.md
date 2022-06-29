@@ -6,6 +6,11 @@
 - 👯 I love sharing my knowledge and always looking for opportunities to give back to the community.
 - 🥅 2022 Goals: Master Data Structures and Algorithms and Work on exciting MERN stack projects.
 
+<p align="center">
+🤝🏻 &nbsp;Connect with Me</br></br>
+<a href="https://www.linkedin.com/in/muhammad-hameed-7896321b5/"><img src="https://img.shields.io/badge/-Muhammad%20Hameed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:muhammadhameed105@gmail.com"><img src="https://img.shields.io/badge/-muhammadhameed105@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
 
 ## Contribution Graph
@@ -22,11 +27,6 @@
 </p>
 </p>
 
-<p align="center">
-🤝🏻 &nbsp;Connect with Me</br></br>
-<a href="https://www.linkedin.com/in/muhammad-hameed-7896321b5/"><img src="https://img.shields.io/badge/-Muhammad%20Hameed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:muhammadhameed105@gmail.com"><img src="https://img.shields.io/badge/-muhammadhameed105@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
 
 
 <!--
