@@ -22,6 +22,12 @@
 </p>
 </p>
 
+<p align="center">
+🤝🏻 &nbsp;Connect with Me</br></br>
+<a href="https://www.linkedin.com/in/muhammad-hameed-7896321b5/"><img src="https://img.shields.io/badge/-Muhammad%20Hameed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:muhammadhameed105@gmail.com"><img src="https://img.shields.io/badge/-muhammadhameed105@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
 
 <!--
 **hameedtariq/hameedtariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
