@@ -38,19 +38,17 @@
     <td align='center'>
         <img src="https://www.skillfinder.com.au/media/wysiwyg/mongodb-logo-skill-finder.png">
     </td>
-</tr>
-<tr>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="60" width="60">
     </td>
+</tr>
+<tr> 
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60" height="60">
     </td>
     <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
-</tr>
-<tr>
     <td align='center'>
         <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
     </td>
@@ -63,7 +61,7 @@
     <td align='center'>
         <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH">
     </td>
-    <td align='center'>
+    <td align='center' colspan="2">
         <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="80" width="90" >
     </td>
     <td align='center'>
