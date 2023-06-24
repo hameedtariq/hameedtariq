@@ -39,7 +39,7 @@
         <img src="https://www.skillfinder.com.au/media/wysiwyg/mongodb-logo-skill-finder.png">
     </td>
     <td align='center'>
-        <img src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=avif&w=512">
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=avif&w=512" height="60" width="60">
     </td>
     
 </tr>
@@ -62,11 +62,14 @@
     <td align='center'>
         <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH">
     </td>
-    <td align='center' colspan="2">
+    <td align='center'>
         <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="80" width="90" >
     </td>
     <td align='center'>
         <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" >
+    </td>
+    <td align='center'>
+        <img src="https://www.logo.wine/a/logo/Oracle_Linux/Oracle_Linux-Logo.wine.svg" >
     </td>
 </tr>
     
