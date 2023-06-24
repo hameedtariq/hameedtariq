@@ -39,15 +39,16 @@
         <img src="https://www.skillfinder.com.au/media/wysiwyg/mongodb-logo-skill-finder.png">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="60" width="60">
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=avif&w=512">
     </td>
+    
 </tr>
 <tr> 
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60" height="60">
     </td>
     <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="60" width="60">
     </td>
     <td align='center'>
         <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
