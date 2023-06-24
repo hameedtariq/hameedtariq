@@ -12,6 +12,71 @@
 <a href="mailto:muhammadhameed105@gmail.com"><img src="https://img.shields.io/badge/-muhammadhameed105@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
+<h2><i>💻 Technologies</i></h2>
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="60">
+    </td>
+     <td align='center' width="190">
+        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
+    </td>
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" height="80">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
+    </td>
+    <td align='center'>
+        <img src="https://www.skillfinder.com.au/media/wysiwyg/mongodb-logo-skill-finder.png">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="60" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60" height="60">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
+    </td>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" height="80">
+    </td>
+</tr>
+
+<tr>
+    <td align='center'>
+        <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH">
+    </td>
+    <td align='center'>
+        <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="80" width="90" >
+    </td>
+    <td align='center'>
+        <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" >
+    </td>
+</tr>
+    
+</table>
+
+<br />
+<br />
+
+
 
 ## Contribution Graph
 
