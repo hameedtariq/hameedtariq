@@ -69,7 +69,7 @@
         <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" >
     </td>
     <td align='center'>
-        <img src="https://www.logo.wine/a/logo/Oracle_Linux/Oracle_Linux-Logo.wine.svg" height="120" width="60">
+        <img src="https://www.logo.wine/a/logo/Oracle_Linux/Oracle_Linux-Logo.wine.svg" height="120" width="80">
     </td>
 </tr>
     
