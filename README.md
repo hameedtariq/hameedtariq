@@ -4,7 +4,7 @@
 - 🔭 I’m currently exploring MERN stack and looking for opportunities to work with and learn from other people.
 - 🌱 I’m currently expanding my knowledge of Data Structures and Algorithms.
 - 👯 I love sharing my knowledge and always looking for opportunities to give back to the community.
-- 🥅 2022 Goals: Master Data Structures and Algorithms and Work on exciting MERN stack projects.
+- 🥅 2023 Goals: Build an innovative product and explore the world of DevOps and AI.
 
 <p align="center">
 🤝🏻 &nbsp;Connect with Me</br></br>
