@@ -10,8 +10,15 @@
 🤝🏻 &nbsp;Connect with Me</br></br>
 <a href="https://www.linkedin.com/in/muhammad-hameed-7896321b5/"><img src="https://img.shields.io/badge/-Muhammad%20Hameed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:muhammadhameed105@gmail.com"><img src="https://img.shields.io/badge/-muhammadhameed105@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
 
+[![LeetCode user TheHems](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FTheHems&logo=leetcode&logoColor=yellow)](https://leetcode.com/TheHems/)
+
+</p>
+<p align="center">
+    
+
+
+</p>
 <h2><i>💻 Technologies</i></h2>
 <table width="100">
 <tr>
