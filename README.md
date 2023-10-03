@@ -81,8 +81,7 @@
 
 
 ## Contribution Graph
-
-[![Hameedtariq's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hameedtariq&theme=rogue)](https://github.com/hameedtariq)
+![Hameedtariq's Stats](https://github-readme-stats.vercel.app/api?username=Hameedtariq&theme=merko&show_icons=true&hide_border=true&count_private=true)
    
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
