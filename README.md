@@ -1,10 +1,10 @@
 ### # Hi there, I'm Hameed 👋
 
-### I'm a Developer and Student!
-- 🔭 I’m currently exploring MERN stack and looking for opportunities to work with and learn from other people.
-- 🌱 I’m currently expanding my knowledge of Data Structures and Algorithms.
+### I'm a Full Stack Software Engineer
+- 🔭 I’m currently working as Lead Full Stack Engineer at Bravo Health.
+- 🌱 I’m interested in Competitive Programming and Problem Solving.
 - 👯 I love sharing my knowledge and always looking for opportunities to give back to the community.
-- 🥅 2023 Goals: Build an innovative product and explore the world of DevOps and AI.
+- 🥅 2024 Goals: Build an innovative product and explore the world of DevOps and AI.
 
 <p align="center">
 🤝🏻 &nbsp;Connect with Me</br></br>
