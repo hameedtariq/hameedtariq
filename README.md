@@ -1,10 +1,47 @@
-### # Hi there, I'm Hameed 👋
+### 👋 Hi there, I'm Hameed
 
-### I'm a Full Stack Software Engineer
-- 🔭 I’m currently working as Lead Full Stack Engineer at Bravo Health.
-- 🌱 I’m interested in Competitive Programming and Problem Solving.
-- 👯 I love sharing my knowledge and always looking for opportunities to give back to the community.
-- 🥅 2024 Goals: Build an innovative product and explore the world of DevOps and AI.
+### 🚀 Full Stack Software Engineer | MERN
+
+I'm a passionate Full Stack Software Engineer with **3+ years of experience** building scalable, real-world applications using the **MERN stack (MongoDB, Express.js, React, Node.js)**. I enjoy turning complex problems into clean, efficient solutions and thrive in fast-paced startup environments.
+
+
+### 💼 What I Do
+
+* 🔭 Currently working as **Software Engineer II @ Calo**, contributing to AI initiatives
+* ☁️ Strong focus on backend architecture, APIs, and performance
+* 🧩 Love solving problems and writing clean, maintainable code
+* 🧠 Strong expertise in React and React Native for building high-quality web and mobile apps
+
+
+### 🌱 Interests & Learning
+
+* 🤖 Actively contributing to **AI-driven initiatives** in production systems
+* 🏗 Expanding knowledge in **scalable system design**, distributed systems, and databases
+* 🌱 Competitive Programming & Problem Solving
+* ⚙️ Exploring **DevOps**, system reliability, and performance optimization
+
+
+### 🤝 Community & Collaboration
+
+* 👯 I enjoy sharing knowledge and mentoring others
+* 💬 Always open to collaboration on meaningful products
+
+
+### 🎯 Goals
+
+* 🥅 **2025–2026**: Build scalable, AI-powered products and deepen expertise in system design & architecture.
+
+
+### 🛠 Tech Stack
+
+* **Frontend:** React, Next.js, React Native, TypeScript
+* **Backend:** Node.js, Express, Nest.js, MongoDB, PostgreSQL, DynamoDB, RDS
+* **Tools:** Git, Docker, Stripe, Supabase, Firebase, Vercel
+* **Other:** REST APIs, Authentication, Payments, System Design
+
+
+📫 *Let’s build something impactful together.*
+
 
 <p align="center">
 🤝🏻 &nbsp;Connect with Me</br></br>
